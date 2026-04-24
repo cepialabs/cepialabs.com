@@ -141,8 +141,8 @@ export default function Home() {
         </a>
         <nav className="nav-links" aria-label="Primary navigation">
           <a href="#home">Home</a>
-          <a href="#about">About Us</a>
-          <a href="#contact">Contact</a>
+          <a href="/about-us-cepialabs">About Us</a>
+          <a href="/contact-us-cepialabs">Contact</a>
           <a href="https://ignite.cepialabs.com/">Internship</a>
         </nav>
       </header>
